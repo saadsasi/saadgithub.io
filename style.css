@@ -1,0 +1,67 @@
+* {
+    font-size: 30px;
+    font: 22px Tahoma;
+    border-image: url(1.png) 50 10 110 stretch;
+
+
+
+
+}
+
+nav {
+    color: rgb(255, 255, 255);
+    font-size: 25px;
+    background-color: rgba(25, 46, 116, 0.972);
+    letter-spacing: 1px;
+    word-spacing: 20px;
+    text-transform: capitalize;
+
+
+
+
+}
+
+ul {
+
+    display: inline-block;
+
+
+
+}
+
+li {
+    display: inline-block;
+
+}
+
+div {
+
+    font-size: 50px;
+    color: lightskyblue;
+
+}
+
+p {
+    border-color: rgb(4, 77, 194);
+    border-style: solid;
+    border-width: thick 15px;
+    border-radius: 80px;
+    font-size: 30px;
+    line-height: 41px;
+    text-align: center;
+
+
+}
+
+#Contact {
+    word-spacing: 0px;
+
+}
+
+b {
+    font-size: 58px;
+}
+
+img {
+    border-image: url(1.png) 30 20 20 repeat;
+}
